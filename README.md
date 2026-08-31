@@ -469,6 +469,6 @@ Together, these dashboards provide an interactive analysis of retail sales, cust
 
 # 👤 Author
 
-**Cherry**
+**Chakri**
 
 **Data Analytics | Tableau | SQL | Python**
